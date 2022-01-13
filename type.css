@@ -1,0 +1,269 @@
+*{
+	 margin: 0;
+	 padding: 0;
+	 margin-top: 0;
+
+
+}
+
+.div1{
+	    background-color:limegreen;
+	    padding-top: 10px;
+	    padding-bottom: 20px;
+	    filter: none;
+	    }
+
+.div2{
+	    background-color:black;
+	    
+	    padding-bottom: 100px;
+	    opacity: 0.8;
+	    filter: none;
+	    }
+
+
+a{
+	   text-decoration: none;
+	   padding: 10px 15px 10px 15px;
+	   color: white;
+	   opacity: none;
+	   display: inline-block;
+	   margin: 3px;
+	   margin-left: 20px;
+	   margin-right: 0;
+	   text-transform: capitalize;
+	   font-size: 15px;
+	   font-family: sans-serif;
+	   font-weight: bolder;
+	   letter-spacing: 1px;
+	   transition: 0.1s;
+
+}
+a:hover{
+	       border:none;
+	       background-color: black;
+	       font-size: 20px;
+	       opacity: none;
+
+}
+.a1:hover{
+	       border:none;
+	       background-color: black;
+	       font-size: 20px;
+	       opacity: none;
+	       color: limegreen;
+}
+
+
+body{
+	    background-image: url("cr5.jpg");
+	    background-repeat:no-repeat;
+	    background-attachment: fixed;
+	    background-size: cover;
+	    filter: brightness(1.0);
+	   
+
+	   
+	    
+}
+img{
+	  margin-left: 45px;
+	  margin-top: 20px;
+	  border-bottom: 5px solid limegreen;
+      border-left: 5px solid limegreen;
+	  filter:brightness(1.0);
+
+
+}
+.h2{
+	     background-color:black;
+	     opacity: none;
+	     color: white;
+	     font-family: sans-serif;
+	     font-weight: bolder;
+	     padding: 30px 0px 30px 0px;
+	     text-align: center;
+	     text-transform: capitalize;
+	     
+	     margin-top: 30px;
+
+
+}
+mark{
+	   background-color: limegreen;
+
+}
+.a1{
+	   
+	   text-align: left;
+	   
+}
+.h1{
+	   font-weight: bolder;
+	   font-size: 60px;
+	   font-family: sans-serif;
+	   
+	   color: white;
+	   background-color: limegreen;
+}
+.pl{
+	   color: white;
+	   text-align:left;
+	   font-family: sans-serif;
+	   font-weight: bolder;
+	   font-size: 40px;
+	   margin-top: 10px;
+	   margin-left: 10px;
+}
+
+
+strike{
+	     color:white;
+
+}
+strong{
+	     color: limegreen;
+}
+table,th,td{
+	           border:1px solid limegreen;
+	           border-collapse: collapse;
+	           text-align:left;
+	           text-transform: capitalize;
+
+}
+th{
+	   text-align: center;
+}
+th{
+	   background-color: limegreen;
+	   color: white;
+	   font-family: sans-serif;
+	   font-weight: bolder;
+	   font-size: 20px;
+	   padding: 20px 15px 20px 15px;
+}
+table{
+	    margin-top: 30px;
+
+}
+
+
+td{
+	  font-size: 20px;
+	  font-weight: bolder;
+	  font-family: sans-serif;
+	  padding: 20px 25px 20px 25px;
+	  background-color:white;
+	  letter-spacing: 1px;
+	  opacity: 0.4;
+	  border: 2px solid green;
+	  
+
+}
+.p1{
+	   font-family: sans-serif;
+	   font-weight: bolder;
+	   font-size: 20px;
+	   letter-spacing: 1px;
+	   word-spacing: 2px;
+	   margin-left: 10px;
+	   margin-right: 10px;
+	   color: white;
+	   text-transform: capitalize;
+	   margin-top: 30px;
+	  
+
+}
+.p2{
+	  font-family: sans-serif;
+	   font-weight: bolder;
+	   font-size: 18px;
+	   letter-spacing: 1px;
+	   word-spacing: 2px;
+	   margin-left: 10px;
+	   margin-right: 10px;
+	   color: limegreen;
+	   text-transform: capitalize;
+	   margin-top: 5px; 
+	   word-break: 20px;
+
+}
+.head{
+	    color: limegreen;
+	    margin-top: 10px;
+	    margin-left: 10px;
+	    font-family: sans-serif;
+	    font-weight: bolder;
+	    font-size: 100px;
+	    margin-right: 0;
+	    letter-spacing: 1px;
+	    text-transform: capitalize;
+
+}
+h3{
+	  font-size: 40px;
+	  font-weight: bolder;
+	  font-family: sans-serif;
+	  margin-left: 10px;
+}
+.p3{
+	   margin-top: 130px;
+	   color: limegreen;
+	   font-size: 20px;
+	   font-family: sans-serif;
+	   font-weight: bolder;
+	   letter-spacing: 1px;
+}
+.p4{
+
+	   margin-top: 10px;
+	   color: limegreen;
+	   font-size: 20px;
+	   font-family: sans-serif;
+	   font-weight: bolder;
+	   letter-spacing: 1px;
+}
+
+.a2{
+	    position: relative;
+	    top: 170px;
+}
+.a2:hover{
+	         border:none;
+	       background-color: black;
+	       font-size: 20px;
+	       opacity: none;
+	       color: hotpink;
+
+}
+.image1{
+	       height: 400px;
+	       width: 400px;
+	       margin-top: 150px;
+	       margin-left: 0;
+	       margin-right: 0;
+	       border-radius: 50%;
+
+}
+
+.para1{
+	     color: white;
+	     font-size: 20px;
+	     font-family: sans-serif;
+	     font-weight: bolder;
+	     text-transform: capitalize;
+	     letter-spacing: 1px;
+	     margin-top: 5px;
+
+}
+.myhead{
+	      margin-top: 200px;
+	      font-size: 60px;
+	      font-family: sans-serif;
+	      font-weight: bolder;
+	      text-transform: capitalize;
+	      cursor: progress;
+	      color: white;
+
+	      
+}
